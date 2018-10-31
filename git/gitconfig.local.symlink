@@ -1,0 +1,5 @@
+[user]
+name = Georgios Kaleadis
+email = georgios@kaleadis.de
+[credential]
+helper = osxkeychain
